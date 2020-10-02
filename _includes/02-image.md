@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Mojave desert](https://en.wikipedia.org/wiki/Mojave_Desert#/media/File:Calico_basin_red_rock_cumulus_mediocris.jpg)
